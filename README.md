@@ -1,2 +1,2 @@
 # Movidd
-## My First React Native Android Application
+## My First React Native AMobile Application
